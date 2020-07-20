@@ -1,6 +1,16 @@
-# Nitin Reddy
-Developer with eager to learn new tech, mainly into JavaScript, Dart, and Python.
-<hr>
+### Hi there 👋, my name is Nitin Reddy
+#### I am a Software Developer
+![I am a Software Developer](https://media-exp1.licdn.com/dms/image/C5116AQGT2iiuViBStA/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=wepeILZbLzjioLwSXaYNfFsc0dWsqvSyzP6A4kEZsEo)
+
+Learner, blogger, father
+
+Skills: JS, React, Dart, Python
+
+🔭 I’m currently working on D3JS with React 🌱 I’m currently learning Flutter, dart 👯 I’m looking to collaborate on Flutter and react projects 📫 How to reach me: Twitter @nitkr 😄 Pronouns: He/His/Him ⚡ Fun fact: Crack meaningful jokes at work  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nitinreddy3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/nitinreddy3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mnkreddy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nitinkreddy3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nitkr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nkr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3259522/mandam-nitin-kumar-reddy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nitinkreddy.me)  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=nitinreddy3&show_icons=true)![Profile views](https://gpvc.arturio.dev/nitinreddy3)  
 
 ### 📝 Latest articles from [dev.to](https://dev.to/nitinreddy3)
 
