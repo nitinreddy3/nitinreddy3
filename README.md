@@ -1,14 +1,19 @@
-### Hi there 👋
+# Nitin Reddy
+Developer with eager to learn new tech, mainly into JavaScript, Dart, and Python.
+<hr>
 
-**nitinreddy3/nitinreddy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📝 Latest articles from [dev.to](https://dev.to/nitinreddy3)
 
-Here are some ideas to get you started:
+* Jul 19 2020 [Dart Programming Part #1](https://dev.to/nitinreddy3/dart-programming-part-1-2p8k) 
+* Jul 18 2020 [Tangled Tree with D3 and React](https://dev.to/nitinreddy3/tangled-tree-with-d3-and-react-5g25) 
+* Jul 05 2020 [Recursion to update deeply nested objects](https://dev.to/nitinreddy3/recursion-to-update-deeply-nested-objects-f7e) 
+* Jun 16 2020 [Fun in upgrading the machine ](https://dev.to/nitinreddy3/fun-in-upgrading-the-machine-5cgn) 
+* May 18 2020 [Learn Flutter #2](https://dev.to/nitinreddy3/learn-flutter-2-5eo6) 
+<p align="center">
 
-- 🔭 I’m currently working on D3JS, React
-- 🌱 I’m currently learning Dart and Flutter
-- 👯 I’m looking to collaborate on Flutter and React projects
-- 🤔 I’m looking for help with no idea whatsoever right now
-- 💬 Ask me about React, JavaScript
-- 📫 How to reach me: Twitter - [@nitkr](https://twitter.com/nitkr)
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: Playing around with React, Flutter and JS
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nitinreddy3.nitinreddy3" />
+
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnitinreddy3" />
+
+</p>
+
