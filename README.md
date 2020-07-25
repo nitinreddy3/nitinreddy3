@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nitin Reddy
+### 👋 Nitin Reddy
 #### I am a Software Developer
 ![I am a Software Developer](https://media-exp1.licdn.com/dms/image/C5116AQGT2iiuViBStA/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=wepeILZbLzjioLwSXaYNfFsc0dWsqvSyzP6A4kEZsEo)
 
