@@ -1,6 +1,5 @@
 ### 👋 Nitin Reddy
-#### I am a Software Developer
-[I am a Software Developer](https://media-exp1.licdn.com/dms/image/C5116AQGT2iiuViBStA/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=wepeILZbLzjioLwSXaYNfFsc0dWsqvSyzP6A4kEZsEo)
+![I am a Software Developer](https://media-exp1.licdn.com/dms/image/C5116AQGT2iiuViBStA/profile-displaybackgroundimage-shrink_350_1400/0?e=1606348800&v=beta&t=DFmKe5_EQxndbbMM5hXkALHZEWEC2gaCol2NBycXkbg)
 
 Learner, Blogger, Father
 
