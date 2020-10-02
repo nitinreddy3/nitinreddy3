@@ -1,5 +1,6 @@
 ### Hi there 👋, Nitin Reddy
 #### Software Dev, blogger, and a father
+![Software Dev, blogger, and a father](https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
 JS dev with interest in Python, Flutter app development. Learning and creating some stuff to polish the tech skills to move ahead in a career.
 
