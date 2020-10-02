@@ -1,34 +1,26 @@
-### 👋 Nitin Reddy
-![I am a Software Developer](https://media-exp1.licdn.com/dms/image/C5116AQGT2iiuViBStA/profile-displaybackgroundimage-shrink_350_1400/0?e=1606348800&v=beta&t=DFmKe5_EQxndbbMM5hXkALHZEWEC2gaCol2NBycXkbg)
+### Hi there 👋, Nitin Reddy
+#### Software Dev, blogger, and a father
 
-Learner, Blogger, Father
+JS dev with interest in Python, Flutter app development. Learning and creating some stuff to polish the tech skills to move ahead in a career.
 
-Skills: JS, React, Dart, Python
+Skills: ReactJS, NodeJS, Flutter, Python, MongoDB
 
-🔭 I’m currently working on d3JS with React
+- 🔭 I’m currently working on MERN Stack app, a simple one but useful 
+- 🌱 I’m currently learning MongoDB, Flutter, Python 
+- 👯 I’m looking to collaborate on Flutter and react projects 
+- 💬 Ask me about JS, React, MERN stack 
+- 📫 How to reach me: https://twitter.com/nkr 
+- ⚡ Fun fact: Crack meaningful jokes 
 
-🌱 I’m currently learning Flutter, dart 
 
-👯 I’m looking to collaborate on Flutter and react projects 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nitinreddy3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/nitinreddy3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nitinreddy3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nitinreddy3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nitkr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nkr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user3259522)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/nitkr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nitinreddy3.xyz)  
 
-⚡ Fun fact: Crack meaningful jokes at work  
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nitinreddy3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/nitinreddy3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nitinreddy3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nitinkreddy3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nitkr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nkr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3259522/mandam-nitin-kumar-reddy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nitinreddy3.xyz)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nitinreddy3)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=nitinreddy3&show_icons=true)![Profile views](https://gpvc.arturio.dev/nitinreddy3)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinreddy3)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📝 Latest articles from [dev.to](https://dev.to/nitinreddy3)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinreddy3&show_icons=true)  
 
-* Jul 19 2020 [Dart Programming Part #1](https://dev.to/nitinreddy3/dart-programming-part-1-2p8k) 
-* Jul 18 2020 [Tangled Tree with D3 and React](https://dev.to/nitinreddy3/tangled-tree-with-d3-and-react-5g25) 
-* Jul 05 2020 [Recursion to update deeply nested objects](https://dev.to/nitinreddy3/recursion-to-update-deeply-nested-objects-f7e) 
-* Jun 16 2020 [Fun in upgrading the machine ](https://dev.to/nitinreddy3/fun-in-upgrading-the-machine-5cgn) 
-* May 18 2020 [Learn Flutter #2](https://dev.to/nitinreddy3/learn-flutter-2-5eo6) 
-<p align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=nitinreddy3.nitinreddy3" />
-
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnitinreddy3" />
-
-</p>
-
+![Profile views](https://gpvc.arturio.dev/nitinreddy3)  
