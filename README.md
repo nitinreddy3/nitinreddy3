@@ -1,4 +1,7 @@
 ### Hi there 👋, Nitin Reddy
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nitinreddy3/nitinreddy3/blob/master/devcard.svg" width="400" alt="Nitin Reddy's Dev Card"/></a>
+
 #### I am a Software Dev, blogger, and father
 ![Software Dev, blogger, and a father](https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
