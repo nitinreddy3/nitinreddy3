@@ -1,6 +1,6 @@
 ### Hi there 👋, Nitin Reddy
 #### I am a Software Dev, blogger, and father
-<a href="https://app.daily.dev/nitinreddy3"><img src="https://api.daily.dev/devcards/e80b5cd7453c4402aa5c5320adaf04c4.png?r=py3" width="400" alt="Nitin Reddy's Dev Card"/></a>
+<a href="https://app.daily.dev/nitinreddy3"><img src="https://api.daily.dev/devcards/e80b5cd7453c4402aa5c5320adaf04c4.png?r=cja" width="400" alt="Nitin Reddy's Dev Card"/></a>
 
 JS dev with interest in Python, Flutter app development. Learning and creating some stuff to polish the tech skills to move ahead in a career.
 
