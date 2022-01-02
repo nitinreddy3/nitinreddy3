@@ -10,7 +10,7 @@ Skills: ReactJS, NodeJS, Flutter, Python, MongoDB
 - 🌱 I’m currently learning MongoDB, Flutter, Python 
 - 👯 I’m looking to collaborate on Flutter and react projects 
 - 💬 Ask me about JS, React, MERN stack 
-- 📫 How to reach me: https://twitter.com/nkr 
+- 📫 How to reach me: https://twitter.com/nitkr
 - ⚡ Fun fact: Crack meaningful jokes 
 
 
