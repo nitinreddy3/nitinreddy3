@@ -1,6 +1,6 @@
 ### Hi there 👋, Nitin Reddy
 #### I am a Software Dev, blogger, and father
-<a href="https://app.daily.dev/nitinreddy3"><img src="https://api.daily.dev/devcards/e80b5cd7453c4402aa5c5320adaf04c4.png?r=cja" width="400" alt="Nitin Reddy's Dev Card"/></a>
+<a href="https://app.daily.dev/nitinreddy3"><img src="https://api.daily.dev/devcards/e80b5cd7453c4402aa5c5320adaf04c4.png?r=93f" width="400" alt="Nitin Reddy's Dev Card"/></a>
 
 Seasoned JavaScript Developer who loves to explore other programming languages like Python. A problem solver, tech lover by heart. Loves reading booking, and cooking. 
 🤩🚀🔬
